@@ -1,7 +1,7 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
+  "name": "Signific",
+  "short_name": "Signific",
+  "description": "Capture and retrieve gift ideas for friends & family at opportune times",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
